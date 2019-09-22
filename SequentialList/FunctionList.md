@@ -1,8 +1,8 @@
 
 # FunctionList
 
-1. InitList\n
+* InitList
 receive a list reference, initialize ten Elemtype of space, then return the status code.
 
-2. ClearList\n
+* ClearList
 clear a list, then return the status code.
