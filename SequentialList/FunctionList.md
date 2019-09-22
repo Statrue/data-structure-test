@@ -52,5 +52,5 @@
 * void MergeList(Sqlist La, Sqlist Lb, Sqlist& Lc)
   > find an union based on the list la and lb, then assign to list Lc.
   
-* Status Intersaction(Sqlist& La, Sqlist Lb)
+* Status Intersection(Sqlist& La, Sqlist Lb)
   > find an intersaction based on list la and lb, then assign to list La.
