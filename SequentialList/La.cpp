@@ -159,7 +159,7 @@ void MergeList(Sqlist La, Sqlist Lb, Sqlist& Lc)
 	AscSortList(Lc);
 }
 
-Status Intersaction(Sqlist& La, Sqlist Lb)
+Status Intersection(Sqlist& La, Sqlist Lb)
 {
 	ElemType e;
 	for (int i = 0; i < La.length; i++)
