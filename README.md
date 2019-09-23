@@ -6,4 +6,4 @@ This repositry include my data structure homework and something else
   > Status accomplished
 
 * LinkedList
-  > Status processing
+  > Status accomplished
